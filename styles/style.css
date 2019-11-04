@@ -1,0 +1,10 @@
+style.css
+html {
+	background-color: red
+}
+body {
+	background-color: blue;
+	margin: auto;
+	max-width: 60px;
+	height: 60px;
+}
